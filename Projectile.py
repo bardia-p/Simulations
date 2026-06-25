@@ -18,8 +18,7 @@ v         = int(input("Enter a value for the velocity (in pixel/s): ")) * 10
 angle_deg = int(input("Enter a value for the angle (0 to 90): "))
 friction  = float(input("Enter a value for the coefficient of friction (0 to 1): "))
 
-# friction=0   → perfectly elastic, never slows down
-# friction=1   → stops immediately on first bounce
+
 # restitution: how much vertical velocity is kept on bounce
 restitution = 1.0 - friction
 # rolling drag: fraction of horizontal speed lost per second on the floor

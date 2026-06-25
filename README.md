@@ -20,10 +20,9 @@ $ python3 spinning_top.py
 >>> Enter the number of balls: 10
 ```
 
-<video width="640" height="360" controls>
-  <source src="demos/spinning_top.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+    <img src="demos/spinning_top.gif" />
+</p>
 
 2. **Pendulum:** a ball/spring model of a pendulum.
 
@@ -33,10 +32,9 @@ $ python3 pendulum.py
 >>> Enter the spring hardness: 100
 ```
 
-<video width="640" height="360" controls>
-  <source src="demos/pendulum.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+    <img src="demos/pendulum.gif" />
+</p>
 
 3. **Projectile:** a realistic model for a projectile with friction.
 
@@ -47,10 +45,9 @@ $ python3 projectile.py
 >>> Enter a value for the coefficient of friction (0 to 1): 0.1
 ```
 
-<video width="640" height="360" controls>
-  <source src="demos/projectile.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+    <img src="demos/projectile.gif" />
+</p>
 
 4. **Desmos:** a realistic clone of the math graphing calculator.
 
